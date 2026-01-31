@@ -39,3 +39,5 @@ streamlit run main.py
 - ```main.py```: This file contains the code for the Streamlit app.
 
 - ```data/image.jpg```: An example image for testing.
+
+- ```write-up.txt```: Contains the write-up of this project.
